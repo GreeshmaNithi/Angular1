@@ -1,0 +1,11 @@
+.d1{
+    border: 5px;
+    border-color: white;
+    border-style: double;
+    text-align: center;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
